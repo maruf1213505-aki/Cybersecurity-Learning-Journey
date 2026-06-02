@@ -35,3 +35,5 @@ Aspiring Cybersecurity Professional.
 - Wireshark
 - Burp Suite
 - Web Security
+
+  #notes templete
