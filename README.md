@@ -36,4 +36,4 @@ Aspiring Cybersecurity Professional.
 - Burp Suite
 - Web Security
 
-  #notes templete
+## Notes template
